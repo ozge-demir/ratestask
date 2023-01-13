@@ -1,4 +1,4 @@
-# Rate Task API
+# Ratestask API
 
 This project is an HTTP-based API that returns the average prices for each day on a route between port codes origin and destination, it also allows you to query for average prices per day between geographic groups of ports.
 
